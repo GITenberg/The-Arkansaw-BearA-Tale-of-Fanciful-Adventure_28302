@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1076
     wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28302#The-Arkansaw-BearA-Tale-of-Fanciful-Adventure
 gutenberg_issued: '2009-03-10'
 gutenberg_type: Text
 identifiers:
